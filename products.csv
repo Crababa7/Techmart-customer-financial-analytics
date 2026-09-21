@@ -1,0 +1,51 @@
+ProductID,Product Name,Category,Subcategory,Brand,Supplier,Unit Cost,Selling Price
+P001,Product 1,Office Supplies,Sub2,Brand4,Supplier2,14,24.41
+P002,Product 2,Furniture,Sub4,Brand3,Supplier6,245,274.71
+P003,Product 3,Furniture,Sub1,Brand1,Supplier8,219,303.16
+P004,Product 4,Office Supplies,Sub1,Brand1,Supplier2,29,45.02
+P005,Product 5,Furniture,Sub3,Brand5,Supplier6,81,119.18
+P006,Product 6,Electronics,Sub2,Brand1,Supplier6,252,421.8
+P007,Product 7,Electronics,Sub3,Brand4,Supplier6,91,107.51
+P008,Product 8,Electronics,Sub4,Brand4,Supplier7,139,216.88
+P009,Product 9,Furniture,Sub4,Brand2,Supplier3,193,252.01
+P010,Product 10,Electronics,Sub2,Brand5,Supplier8,38,50.88
+P011,Product 11,Electronics,Sub1,Brand4,Supplier4,184,299.96
+P012,Product 12,Electronics,Sub4,Brand2,Supplier2,206,317.68
+P013,Product 13,Furniture,Sub2,Brand4,Supplier8,137,182.89
+P014,Product 14,Office Supplies,Sub2,Brand4,Supplier8,199,287.52
+P015,Product 15,Office Supplies,Sub4,Brand3,Supplier3,214,316.6
+P016,Product 16,Furniture,Sub1,Brand1,Supplier2,86,95.32
+P017,Product 17,Furniture,Sub3,Brand2,Supplier3,103,146.38
+P018,Product 18,Furniture,Sub1,Brand4,Supplier7,278,466.54
+P019,Product 19,Furniture,Sub1,Brand5,Supplier4,126,186.03
+P020,Product 20,Office Supplies,Sub2,Brand3,Supplier4,226,392.13
+P021,Product 21,Office Supplies,Sub2,Brand2,Supplier7,48,78.84
+P022,Product 22,Furniture,Sub2,Brand1,Supplier4,21,30.64
+P023,Product 23,Office Supplies,Sub1,Brand2,Supplier7,268,424.36
+P024,Product 24,Office Supplies,Sub1,Brand4,Supplier2,248,293.47
+P025,Product 25,Furniture,Sub1,Brand5,Supplier4,296,345.2
+P026,Product 26,Furniture,Sub4,Brand3,Supplier7,16,17.83
+P027,Product 27,Office Supplies,Sub3,Brand5,Supplier8,95,144.07
+P028,Product 28,Office Supplies,Sub2,Brand4,Supplier7,266,442.13
+P029,Product 29,Furniture,Sub3,Brand2,Supplier5,112,162.04
+P030,Product 30,Electronics,Sub1,Brand3,Supplier6,300,388.69
+P031,Product 31,Furniture,Sub3,Brand4,Supplier5,83,106.32
+P032,Product 32,Electronics,Sub2,Brand3,Supplier4,299,426.8
+P033,Product 33,Office Supplies,Sub2,Brand5,Supplier7,110,126.43
+P034,Product 34,Office Supplies,Sub4,Brand4,Supplier4,132,198.57
+P035,Product 35,Electronics,Sub2,Brand1,Supplier1,52,79.96
+P036,Product 36,Office Supplies,Sub2,Brand5,Supplier3,217,296.82
+P037,Product 37,Electronics,Sub4,Brand2,Supplier5,285,422.5
+P038,Product 38,Furniture,Sub3,Brand2,Supplier4,113,176.65
+P039,Product 39,Furniture,Sub4,Brand5,Supplier5,162,258.64
+P040,Product 40,Furniture,Sub2,Brand4,Supplier1,55,80.3
+P041,Product 41,Office Supplies,Sub1,Brand5,Supplier6,158,262.34
+P042,Product 42,Electronics,Sub1,Brand3,Supplier3,237,302.99
+P043,Product 43,Office Supplies,Sub1,Brand1,Supplier7,77,136.26
+P044,Product 44,Office Supplies,Sub4,Brand1,Supplier4,135,218.87
+P045,Product 45,Office Supplies,Sub2,Brand5,Supplier5,206,321.9
+P046,Product 46,Electronics,Sub4,Brand4,Supplier4,11,17.63
+P047,Product 47,Electronics,Sub2,Brand4,Supplier5,147,165.58
+P048,Product 48,Furniture,Sub1,Brand2,Supplier3,225,310.27
+P049,Product 49,Electronics,Sub4,Brand2,Supplier7,296,328.89
+P050,Product 50,Furniture,Sub2,Brand1,Supplier2,285,477.56
