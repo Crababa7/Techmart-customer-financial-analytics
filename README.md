@@ -13,17 +13,17 @@ An end-to-end Power BI sales analytics project for Tech Mart Retail Ltd. The das
 - Monitoring the most reliable payment method.
 
 ## Key KPIs
-1. The dashboard tracks:
-2. Total Sales
-3. Total Profit
-4. Profit Margin %
-5. Total Orders
-6. Customer Performance
-7. Regional Sales
-8. Product Performance
-9. Employee Performance
-10. Dashboard Pages
-11. Executive Dashboard
+The dashboard tracks:
+-  Total Sales
+-  Total Profit
+-  Profit Margin % T
+-  Total Orders
+-  Customer Performance
+-  Regional Sales
+-  Product Performance
+-  Employee Performance
+-  Dashboard Pages
+- Executive Dashboard
 
 ### Data cleaning
 The preparation process included:
@@ -86,6 +86,7 @@ The workflow included reviewing the source data, handling nulls, correcting data
 
 ## Data Analysis Approach
 The project followed a structured analytical workflow:
+
 Raw Data → Data Cleaning → Data Transformation → Data Modeling → Analysis → Visualization → Insights → Recommendations
 
 The analysis was designed to move beyond simply displaying numbers by connecting the results to potential business decisions.
@@ -106,17 +107,18 @@ Employee-level analysis identifies differences in sales contribution and provide
 ### Financial performance
 Sales, profit, and profit margin provide complementary measures of business performance rather than relying on revenue alone.
 
-## Repository Structure
-prime-mart-sales-analytics/
-├── README.md
-├── data/
-│   └── cleaned/
-├── power-bi/
-│   ├── Prime_Mart_Sales_Dashboard.pbix
-│   └── screenshots/
-└── documentation/
-    ├── data-cleaning.md
-    └── data-model.md
+### Regional performance
+The West region records the strongest sales performance, while the East region records the lowest sales among the four regions shown in the dashboard.
+
+### Product performance
+The analysis highlights differences between high- and low-performing products, providing an opportunity to investigate demand, pricing, availability, and customer preferences.
+
+### Employee performance
+Employee-level analysis identifies differences in sales contribution and provides a basis for understanding performance patterns.
+
+### Financial performance
+Sales, profit, and profit margin provide complementary measures of business performance rather than relying on revenue alone.
+
 
 ## Technical Skills Demonstrated
 Area	                            Skills
