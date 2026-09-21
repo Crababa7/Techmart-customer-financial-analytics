@@ -16,7 +16,7 @@ An end-to-end Power BI sales analytics project for Tech Mart Retail Ltd. The das
 The dashboard tracks:
 -  Total Sales
 -  Total Profit
--  Profit Margin % T
+-  Profit Margin % 
 -  Total Orders
 -  Customer Performance
 -  Regional Sales
