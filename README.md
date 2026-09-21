@@ -16,7 +16,8 @@ An end-to-end Power BI sales analytics project for Tech Mart Retail Ltd. The das
 ### Executive Dashboard
 KPIs include Total Sales (₦1.13M), Total Profit (₦274.56K), Total Orders (1K), and Profit Margin (24.38%). Visuals include Monthly Sales, Sales Trend, Profit Trend, Profit Margin, and time filters.
 
-![Executive Dashboard](power-bi/screenshots/executive-dashboard.png)
+![Executive Dashboard]
+
 
 ### Customer Dashboard
 KPIs include 200 customers, ₦1.13K average order value, and ₦5.63K average customer spend. Visuals cover age, gender, income group, and payment method.
