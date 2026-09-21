@@ -107,18 +107,6 @@ Employee-level analysis identifies differences in sales contribution and provide
 ### Financial performance
 Sales, profit, and profit margin provide complementary measures of business performance rather than relying on revenue alone.
 
-### Regional performance
-The West region records the strongest sales performance, while the East region records the lowest sales among the four regions shown in the dashboard.
-
-### Product performance
-The analysis highlights differences between high- and low-performing products, providing an opportunity to investigate demand, pricing, availability, and customer preferences.
-
-### Employee performance
-Employee-level analysis identifies differences in sales contribution and provides a basis for understanding performance patterns.
-
-### Financial performance
-Sales, profit, and profit margin provide complementary measures of business performance rather than relying on revenue alone.
-
 
 ## Technical Skills Demonstrated
 Area	                            Skills
